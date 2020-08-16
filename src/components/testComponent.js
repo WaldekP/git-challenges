@@ -5,6 +5,7 @@ export const TestComponent = () => {
         <div>
             <h1>Tutaj dajemy tytul</h1>
             <p>A tutaj dajemy jakieś body</p>
+            <p>A tutaj dajemy jakieś body@</p>
         </div>
     );
 }
