@@ -21,6 +21,7 @@ function App() {
         <div>Yet another stuff added</div>
       <div>Change only for branch git-mistakes</div>
         <div>Yet another changes</div>
+        <div>This is sth, which was added to master instead of git mistakes branch</div>
     </div>
   );
 }
