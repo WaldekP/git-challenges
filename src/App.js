@@ -18,7 +18,7 @@ function App() {
         </a>
       </header>
         <TestComponent />
-        <div>Yet another stuff added ssdsd</div>
+        <div>Yet another stuff added</div>
     </div>
   );
 }
