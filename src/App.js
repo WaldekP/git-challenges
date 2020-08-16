@@ -19,6 +19,7 @@ function App() {
       </header>
         <TestComponent />
         <div>Yet another stuff added</div>
+      <div>Change only for branch git-mistakes</div>
     </div>
   );
 }
