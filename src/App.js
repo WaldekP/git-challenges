@@ -23,6 +23,8 @@ function App() {
         <div>Yet another changes</div>
         <div>This is sth, which was added to master instead of git mistakes branch</div>
         <div>Hello from git mistakes</div>
+            <div>Some change from github</div>
+
     </div>
   );
 }
