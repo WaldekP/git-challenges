@@ -30,6 +30,7 @@ function App() {
         <div>Something new</div>
         <div>Something extra new</div>
         <div>Change 1</div>
+        <div>Change 2</div>
     </div>
   );
 }
