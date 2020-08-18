@@ -29,6 +29,7 @@ function App() {
         <div>Just hello</div>
         <div>Something new</div>
         <div>Something extra new</div>
+        <div>Change 1</div>
     </div>
   );
 }
