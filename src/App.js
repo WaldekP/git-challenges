@@ -29,9 +29,9 @@ function App() {
         <div>Just hello</div>
         <div>Something new</div>
         <div>Something extra new</div>
-
     </div>
   );
 }
+
 
 export default App;
